@@ -1,1 +1,2 @@
 # gitskills
+/usr/bin/env
